@@ -7,7 +7,7 @@ This project explores a real-world flight delay dataset to identify patterns and
 
 ## 📊 Dataset
 
-- **Source:** [Insert dataset source, e.g., Kaggle, FAA, etc.]
+- **Source:** [(https://www.kaggle.com/datasets/sriharshaeedala/airline-delay), e.g., Kaggle, FAA, etc.]
 - **Total Records:** 171,426
 - **Granularity:** Monthly flight-level summary data
 - **Time Period:** Includes `year` and `month` columns
